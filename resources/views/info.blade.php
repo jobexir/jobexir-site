@@ -19,8 +19,9 @@
             <li>
                 <a href="contact/import/google">Invite Friends</a>
             </li>
+
             <li>
-                <a href="share">Share!</a>
+                <a href="https://www.facebook.com/sharer/sharer.php?u=jobexir.com&display=popup"> share resume! on fb</a>
             </li>
         </ul>
     </div>

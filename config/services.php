@@ -41,7 +41,11 @@ return [
         'client_secret' => 'Ss7vKMrxdmnQEKA-o6cIx5ep',
         'redirect' => 'http://chic-cheap.ir/auth/google/callback',
     ],
-
+    'facebook' => [
+        'client_id' => '552428908270778',
+        'client_secret' => '183864f8b3219dd390486da4a38ec47a',
+        'redirect' => 'http://chic-cheap.ir/auth/facebook/callback',
+    ],
     'linkedin' => [
         'client_id' => '77l6ruao7ri50h',
         'client_secret' => 'FPtVeB6352xctFXE',
