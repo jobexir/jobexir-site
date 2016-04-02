@@ -1,0 +1,28 @@
+@extends('layouts.app')
+@section('section')
+    <img src="{{  $userinfo->avatar }}" alt="">
+@endsection
+
+@section('content')
+
+    <div class="container">
+    	@if(session()->has('message'))
+            <span class="text-success">{{ session('message') }}</span>
+        @endif 
+        @if(session()->has('error'))
+            <span class="text-danger">{{ session('error') }}</span>
+        @endif 
+        <h1>Congralation! You are logged in!</h1>
+    </div>
+    <div class="container">
+        <ul>
+            <li>
+                <a href="contact/import/google">Invite Friends</a>
+            </li>
+            <li>
+                <a href="share">Share!</a>
+            </li>
+        </ul>
+    </div>
+
+@endsection
