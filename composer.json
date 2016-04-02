@@ -15,8 +15,7 @@
         "morilog/jalali": "^1.1",
         "barryvdh/laravel-ide-helper": "^2.1",
         "laravel/socialite": "^2.0",
-        "oriceon/oauth-5-laravel": "dev-master",
-        "chencha/share": "^5.2"
+        "oriceon/oauth-5-laravel": "dev-master"
     },
     "require-dev": {
         "fzaninotto/faker": "~1.4",

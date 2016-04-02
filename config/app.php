@@ -159,8 +159,6 @@ return [
         Morilog\Jalali\JalaliServiceProvider::class,
         Barryvdh\LaravelIdeHelper\IdeHelperServiceProvider::class,
         Laravel\Socialite\SocialiteServiceProvider::class,
-
-        Chencha\Share\ShareServiceProvide::class,
         Artdarek\OAuth\OAuthServiceProvider::class,
 
 
@@ -230,8 +228,6 @@ return [
         'jDate'     => Morilog\Jalali\Facades\jDate::class,
         'jDateTime' => Morilog\Jalali\Facades\jDateTime::class,
         'Socialite' => Laravel\Socialite\Facades\Socialite::class,
-
-        'Share'      => Chencha\Share\ShareFacade::class,
         'OAuth' => Artdarek\OAuth\Facade\OAuth::class,
     ],
 

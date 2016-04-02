@@ -21,7 +21,10 @@
             </li>
 
             <li>
-                <a href="https://www.facebook.com/sharer/sharer.php?u=jobexir.com&display=popup"> share resume! on fb</a>
+                <a href="https://www.facebook.com/sharer/sharer.php?u=jobexir.com&display=popup"> share resume on fb</a>
+            </li>
+            <li>
+                <a href="https://plus.google.com/share?url=http://www.jobexir.com" target="_blank">share resume on g+</a>
             </li>
         </ul>
     </div>
